@@ -1,0 +1,30 @@
+Lesson One
+
+15
+
+What do you think are the pro/con of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs?
+
+Pro
+meaningful commits, based on changes made
+
+Con
+Realy on you to backup with commits, no failsafe to automate the task
+
+
+22
+
+How can you use the commands git log and git diff to view the history of files?
+
+Git log will show all comits through the history of the file
+Git diff allows you to pinpoint changes in history that may need to be reversed22
+
+26
+
+How might using version control make you more confident to make changes that could break something?
+
+Knowing that I could revermoret back to a working version would at any time would give me much more confidence to try new things, and things I might not be sure I even know how to complete. Having the backup working version would allow forf trial and error.26
+
+31
+What do you want to use git for?
+
+More control over my various itterations for the webpage, as well as tracking myLogs.
