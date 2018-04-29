@@ -1,0 +1,22 @@
+How can you use the staging area to make sure there is at least one logical change per comit.?
+
+Storing files in the staging area helps you not forget about minor updates
+
+16
+
+When to use branches 
+Mulitple versions of same file
+tring added features16
+ 
+How can you use the staging area to make sure there is at least one logical change per comit.?
+
+Storing files in the staging area helps you not forget about minor updates
+
+21
+How do the diagrams help you visualize the branch structure?
+
+
+26
+What is the result of merging two branches together? Why do we represent it in the diagram the was we do?21
+How do the diagrams help you visualize the branch structure?
+
