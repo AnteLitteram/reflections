@@ -1,0 +1,45 @@
+5
+What happens when you init a repo? Why do you need to do it?
+
+Git creates a hidden .git file with the metadata necessary to track changes within a repo
+Without the .git file it can not function
+
+
+8
+How is the staging area different from the working directory and the repository?
+What value do you think it offers?
+
+the staging area is a temp holding area for files to be added to a commit and will not show with ls
+also techmically not added to repo until commit
+
+the value is you do not have to add all files in the working directory to the repo
+
+
+
+
+How can you use the staging area to make sure there is at least one logical change per comit.?
+
+Storing files in the staging area helps you not forget about minor updates
+
+16
+
+When to use branches 
+Mulitple versions of same file
+tring added features
+
+
+
+How can you use the staging area to make sure you have one commit per logical
+change?
+
+What are some situations when branches would be helpful in keeping your history
+organized? How would branches help?
+
+How do the diagrams help you visualize the branch structure?
+
+What is the result of merging two branches together? Why do we represent it in
+the diagram the way we do?
+
+What are the pros and cons of Git's automatic merging vs. always doing merges
+manually?
+
